@@ -5,7 +5,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydroft1&count_private=true&show_icons=true&theme=github_dark&langs_count=10&hide_border=true&border_radius=10&layout=compact&card_width=445)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydroft1&count_private=true&show_icons=true&theme=github_dark&langs_count=10&hide_border=true&border_radius=10&layout=compact&card_width=445)[align="center"]
 
 <br>
 <h3 align="center">Used Languages</h3>
