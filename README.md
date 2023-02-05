@@ -1,12 +1,13 @@
  <h1 align="center">Welcome 🤝</h1>
 
-
+<p align="center"> 
 ![hydroft1's GitHub stats](https://github-readme-stats.vercel.app/api?username=hydroft1&count_private=true&show_icons=true&theme=github_dark&hide_border=true&border_radius=10)
-
-
+</p>
+<br>
+<p align="center"> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydroft1&count_private=true&show_icons=true&theme=github_dark&langs_count=10&hide_border=true&border_radius=10&layout=compact&card_width=445)
-
-
+</p>
+<br>
 <h3 align="center">Used Languages</h3>
 <p align="center">  
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
