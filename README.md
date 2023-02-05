@@ -18,12 +18,7 @@
  <a href="https://threejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="php" width="40" height="40"/> </a>
 </p>
 
-
-
-
-
-
-
+<br>
 
 <p align="center"> 
   Visitor count<br>
