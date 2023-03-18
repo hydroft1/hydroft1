@@ -1,6 +1,6 @@
  <h1 align="center">Welcome 🤝</h1>
 
-<p><span class="line"><span class="line"><a class="word" href="https://hydroft1.github.io/portfolio/">Codepen</a></span></p>
+<a class="word" href="https://hydroft1.github.io/portfolio/">My Portfolio</a>
 
 ![hydroft1's GitHub stats](https://github-readme-stats.vercel.app/api?username=hydroft1&count_private=true&show_icons=true&theme=github_dark&hide_border=true&border_radius=10)
 
