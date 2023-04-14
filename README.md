@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
 <h3 align="center">A passionate frontend/backend and design developer from France</h3>
-https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1292677%2Fscreenshots%2F6139167%2Favento.gif&f=1&nofb=1&ipt=52bb8e3c9a782f08c04abcd91ef9056b12fbcfcb1fd6faeff6fb50ba3b95ff2d&ipo=images
+<img align="right" alt="Coding" width"400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 - 🔭 I’m currently working on **Three.js and WebGL website**
 
 - 🎫 My portolio [https://hydroft1.github.io/portfolio/](https://hydroft1.github.io/portfolio/)
