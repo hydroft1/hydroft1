@@ -7,9 +7,9 @@
 - 🎫 My best Website [https://hydroft1.github.io/three.js-webGL/](https://hydroft1.github.io/three.js-webGL/)
 
 <h3 align="left">Contact me:</h3>
-my discord : hydroft1#5216
-my peak elo : Gold3
-Mail : hydroftcount@hotmail.com
+<p>my discord : hydroft1#5216</p>
+<p>my peak elo : Gold3</p>
+<p>Mail : hydroftcount@hotmail.com</p>
 <p align="left">
 </p>
 
