@@ -7,7 +7,6 @@
 
 <h3 align="left">Contact me:</h3>
 <p>my discord : hydroft1#5216</p>
-<p>my peak elo : Gold3</p>
 <p>Mail : hydroftcount@hotmail.com</p>
 <p align="left">
 </p>
