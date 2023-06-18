@@ -6,7 +6,7 @@
 - 🎫 My best Website [https://hydroft1.github.io/three.js-webGL/](https://hydroft1.github.io/three.js-webGL/)
 
 <h3 align="left">Contact me:</h3>
-<p>my discord : hydroft1#5216</p>
+<p>my discord : Hydroft</p>
 <p>Mail : hydroftcount@hotmail.com</p>
 <p align="left">
 </p>
