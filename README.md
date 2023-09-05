@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width"50" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🎫 [**My best Website**](https://hydroft1.github.io/three.js-webGL/)
-- 📱 [**My First App**]([https://github.com/hydroft1/first-app-SwiftUI)
+- 📱 [**My First App**](https://github.com/hydroft1/first-app-SwiftUI)
 
 
 <h3 align="left">Languages and Tools:</h3>
