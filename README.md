@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
-<h3 align="center">A passionate frontend/backend and design developer from France, ios developer </h3>
+<h3 align="center">A developer with a passion for ios application development and design</h3>
 <img align="right" alt="Coding" width"50" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🎫 [**My best Website**](https://hydroft1.github.io/three.js-webGL/)
-
+- 📱 [**My First App]([https://github.com/hydroft1/first-app-SwiftUI)
 
 
 <h3 align="left">Languages and Tools:</h3>
