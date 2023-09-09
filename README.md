@@ -16,5 +16,5 @@
 
 ## deposits I am currently working on
 <p align="left">
-  <a href="https://github.com/Thinkright20/Profile-Badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hydroft1&repo=NSI&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/hydroft1/NSI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hydroft1&repo=NSI&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
