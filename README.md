@@ -3,9 +3,7 @@
 
 ## What I'm Doing
 - 💻 [**Work on my projects**](https://github.com/hydroft1/NSI)
-- 📚 **Learn design for ios applications**
 - 🎫 [**_My best Website with Three.JS_**](https://hydroft1.github.io/three.js-webGL/)
-- 📱 [**_My First App_**](https://github.com/hydroft1/first-app-SwiftUI)
 
 
 ## Languages And Tools I know :
