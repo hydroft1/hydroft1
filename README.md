@@ -16,3 +16,10 @@
 <p align="left">
     <a href="https://github.com/hydroft1/NSI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hydroft1&repo=NSI&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
 </p>
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hydroft1&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydroft1&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
