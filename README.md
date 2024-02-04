@@ -7,7 +7,7 @@
 
 
 ## Languages And Tools I know :
-<p align="left"> <a href="https://github.com/hydroft1"><img src="https://skillicons.dev/icons?i=vscode,github,css,html,js,threejs,swift,firebase"> </a> </p>
+<p align="left"> <a href="https://github.com/hydroft1"><img src="https://skillicons.dev/icons?i=vscode,css,html,js,swift,firebase"> </a> </p>
 
 ## languages I want to learn : 
 <p align="left"> <a href="https://github.com/hydroft1"><img src="https://skillicons.dev/icons?i=react,c, c++"> </a> </p>
