@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/hydroft1"><img src="https://skillicons.dev/icons?i=python,sqlite,vscode,html,css,js,swift,firebase"> </a> </p>
 
 ## languages I want to learn : 
-<p align="left"> <a href="https://github.com/hydroft1"><img src="https://skillicons.dev/icons?i=react,c,cpp"> </a> </p>
+<p align="left"> <a href="https://github.com/hydroft1"><img src="https://skillicons.dev/icons?i=react,c,cpp,typescript"> </a> </p>
 
 ## deposits I am currently working on
 <p align="left">
